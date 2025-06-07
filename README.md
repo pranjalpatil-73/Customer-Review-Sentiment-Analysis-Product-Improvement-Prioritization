@@ -1,6 +1,3 @@
-# nnnn
-
-
 # Customer Review Sentiment Analysis & Product Improvement Prioritization
 
 ## Table of Contents
