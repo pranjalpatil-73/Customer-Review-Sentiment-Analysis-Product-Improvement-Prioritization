@@ -172,4 +172,4 @@ To get a local copy up and running, follow these simple steps.
 ## Contact
 
 Your Name - [https://www.pranjalpatil.com/]
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/pranjalpatil-73)
+Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/pranjalpatil-73/Customer-Review-Sentiment-Analysis-Product-Improvement-Prioritization)
