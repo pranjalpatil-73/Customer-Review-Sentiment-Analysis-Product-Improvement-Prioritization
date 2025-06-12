@@ -171,5 +171,5 @@ To get a local copy up and running, follow these simple steps.
 
 ## Contact
 
-Your Name - [Your Email/LinkedIn Profile]
+Your Name - [https://www.pranjalpatil.com/]
 Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
